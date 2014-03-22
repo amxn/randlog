@@ -1,0 +1,80 @@
+v2.0.1 (November 6, 2013)
+----------------------------
+Added Schema for Breadcrumbs.
+Added Option to control thumbnail quality. 
+Theme will show new update notification on dashboard.
+Added Option to disable Theme update notification.
+Added Floating social sharing buttons.
+Added Styling for Single Post tags.
+
+v2.0 (October 22, 2013)
+----------------------------
+New framework implementation, code and speed optimization.
+Theme is now WooCommerce Ready.
+New improved Options Panel.
+Added Option to disable Responsiveness.
+Added brand new Typography Options with all Google Fonts.
+Added Option to show latest posts from perticular categories.
+Added Async loading for social sharing buttons to reduce loading time.
+Added 20 new background patterns.
+Removed Options to enable thumbnails on homepage.
+Added Related Posts Widget
+Added Google Plus Badge Widget.
+Improved Recent Posts, Category posts, Popular Posts and Tabbed widget.
+Added new Tweets Widget compatible with latest API.
+Added HTML Prefetching for lightning fast site loading.
+Better Scripts and CSS files loading.
+Improved tag widget design.
+Improved calender widget design.
+Fixed double title issue in Feed
+Shortcodes will work in feed.
+New social profile widget added.
+Upload any size of logo without modifying code.
+Now column shortcodes are responsive on small screens.
+Added Option to select multiple categories for Slider.
+Added Option to show widget titles for left sidebar.
+Added exclusive MyThemeShop Dashboard Design Option.
+Related posts will show random posts from same category.
+Added Option to hide post meta on homepage.
+Removed Twitter, Facebook & RSS counter widget. (Reason: FeedBurner deprecated APIs)
+Added Option to hide thumbnails for Recent, Category & Popular Posts Widgets
+Added Option to hide Date, Comment count and Thumbs for Tabbed Widget.
+In Author box now author name is linked to Author Archive.
+Added Option to make navigation Floating/Sticky.
+Fixed Small bugs.
+Small design improvements.
+Made a few SEO improvements.
+Replaced icon images with Font icons.
+Added more than 350 font icons.
+Optimized code for faster loading.
+Added few words in .po file for translation.
+Removed No Preview image from homepage excerpts.
+
+v1.1 (June 6th, 2012)
+----------------------------
+Added new and improved options panel.
+Theme is now fluid, HTML5.
+Unlimited color schemes.
+New shortcode tabs with one extra shortcode: Toggle.
+Enabled thumbnails on homepage for mobile screens.
+Fixed error in social counter widget.
+New back to top floating button.
+New lightweight Pinterest button.
+Added top border for active navigation tab.
+Left sidebar is now widgetized.
+Fixed 'read more' button for <!--more--> tag.
+Now you can choose category for featured post.
+New icons for social counter widget.
+Added image sprites to reduce HTTP callbacks.
+Added tabbed widget for random and recent posts.
+Made a few SEO improvements.
+Optimized code for faster loading.
+Removed hover effect from related posts.
+Improved dropdown menus.
+New shortcode buttons.
+Now you can Import/Export Options Panel settings.
+Now you can upload a custom background from options panel.
+
+v1.0
+----------------------------
+Theme Released
