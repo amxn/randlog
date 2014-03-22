@@ -63,14 +63,14 @@ define("DB_COLLATE", "");
  *
  * @since 2.6.0
  */
-define("AUTH_KEY",         "put your unique phrase here");
-define("SECURE_AUTH_KEY",  "put your unique phrase here");
-define("LOGGED_IN_KEY",    "put your unique phrase here");
-define("NONCE_KEY",        "put your unique phrase here");
-define("AUTH_SALT",        "put your unique phrase here");
-define("SECURE_AUTH_SALT", "put your unique phrase here");
-define("LOGGED_IN_SALT",   "put your unique phrase here");
-define("NONCE_SALT",       "put your unique phrase here");
+define('AUTH_KEY',         '6FixlK[6dTN#~<[[]qL<HI+0&Ki}/aq7KnS1E_tz@*J?md??L(Ev:[stN+?8@3t,');
+define('SECURE_AUTH_KEY',  '?ZX+*r:EBso0&[SU]REw|lAA-s;%1dTP M,JgXY?od|(q}K^w<*rrCK+zVf)r8mX');
+define('LOGGED_IN_KEY',    'E36_.sO!6_T73@],07w-OE|Xb`E59SB@q>/oVRQ@@Ts0wi$%BuB%-)#AsxJ+gGe>');
+define('NONCE_KEY',        ';8|^+~X[RG<P,G80nDGe#&ib&|F&wb7I*%|o-RRna-Riu)~0Z);+L9FuJRwXk7|I');
+define('AUTH_SALT',        'ItxJ}=C3t<&,./ 2{!-rN;70+;;sx@)3g3LFG#LQJ}tTaK`Yj-58u-=h-9v,|!@a');
+define('SECURE_AUTH_SALT', 'Q-m3Y~D&>Nw<AWy*7X:SsQ{[tx/9%&>@4+t{/I;{e D]/WD%$UP ?(@}x+mL|..)');
+define('LOGGED_IN_SALT',   '4P:&Wx3r^(|[`is=X]b,H./R(572E%_lKg}GBlGq#7_dddI_N`Oa)vY~jQ.~,6y%');
+define('NONCE_SALT',       '+ztT6~cU|B2vu]9RHYxX_RWc;F!ceVA=,L}OvFz&n5ULb::JMLKv`uga;aL|(wD3');
 
 /**#@-*/
 
@@ -100,6 +100,15 @@ define("WPLANG", "");
  * in their development environments.
  */
 define("WP_DEBUG", false);
+
+/* WPRO AWS Constants */
+define('WPRO_ON', true); // Enables the plugin and use configuration from contants.
+define('WPRO_SERVICE', 's3'); // Amazon S3 is the service.
+define('WPRO_FOLDER', ''); // Prepend all URI paths at S3 with this folder. In most cases, you probably want this to be empty.
+define('WPRO_AWS_KEY', '');
+define('WPRO_AWS_SECRET', '');
+define('WPRO_AWS_BUCKET', ''); // The name of the Amazon S3 bucket where your files should be stored.
+define('WPRO_AWS_ENDPOINT', 's3.amazonaws.com'); // The Amazon endpoint datacenter where your S3 bucket is. Se list of endpoints below.
 
 /**
  * Enable the WordPress Object Cache
